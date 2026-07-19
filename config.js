@@ -60,19 +60,19 @@ const CONFIG = {
 			id: '3',
 			name: 'Facebook',
 			icon: 'trello',
-			link: 'https://facebook.com',
+			link: 'https://facebook.com/',
 		},
 		{
 			id: '4',
 			name: 'Spotify',
 			icon: 'calendar',
-			link: 'https://spotify.com/calendar/r',
+			link: 'https://spotify.com/',
 		},
 		{
 			id: '5',
 			name: 'Instagram',
 			icon: 'glasses',
-			link: 'https://instagram.com',
+			link: 'https://instagram.com/',
 		},
 		{
 			id: '6',
