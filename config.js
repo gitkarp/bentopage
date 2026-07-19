@@ -16,10 +16,10 @@ const CONFIG = {
 	twelveHourFormat: false,
 
 	// Greetings
-	/*greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!', */
+	greetingMorning: '',
+	greetingAfternoon: '',
+	greetingEvening: '',
+	greetingNight: '', 
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -35,7 +35,7 @@ const CONFIG = {
 	defaultLongitude: '-122.419', */
 
 	// Autochange
-	autoChangeTheme: true,
+	autoChangeTheme: false,
 
 	// Autochange by OS
 	changeThemeByOS: true,
