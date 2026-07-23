@@ -133,19 +133,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Drive',
-					link: 'drive.google.com',
+					link: 'https://drive.google.com/',
 				},
 				{
 					name: 'Mail',
-					link: 'mail.google.com',
+					link: 'https://mail.google.com/',
 				},
 				{
 					name: 'Docs',
-					link: 'docs.google.com',
+					link: 'https://docs.google.com/',
 				},
 				{
 					name: 'Maps',
-					link: 'maps.google.com',
+					link: 'https://maps.google.com/',
 				},
 			],
 		},
