@@ -149,6 +149,8 @@ const CONFIG = {
 				},
 			],
 		},
+
+		/*
 		{
 			icon: 'coffee',
 			id: '2',
@@ -172,6 +174,7 @@ const CONFIG = {
 			],
 		},
 	],
+	*/
 
 	// Second Links Container
 	secondListsContainer: [
